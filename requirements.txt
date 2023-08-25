@@ -1,0 +1,5 @@
+QT 5.6.X + version , 
+GCC GNU debugger
+Docklight eval version 
+DLL files
+C++ 11 ++ ver for flags 
